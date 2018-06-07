@@ -87,9 +87,9 @@
 		"peekViewResult.selectionForeground": "#fde7ad",
 		"editorWidget.background": "#798d26",
 		"editorWidget.border": "#798d26",
-		"editorSuggestWidget.background": "#6ef4f8b9",
+		"editorSuggestWidget.background": "#018085fb",
 		"editorSuggestWidget.foreground": "#fde7ad",
-		"editorSuggestWidget.selectedBackground": "#c792eac4"
+		"editorSuggestWidget.selectedBackground": "#ac46f0"
 	},
 	"tokenColors": [
 		{
